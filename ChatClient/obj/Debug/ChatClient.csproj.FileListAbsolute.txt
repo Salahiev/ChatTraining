@@ -1,0 +1,15 @@
+D:\Projects\FirstChat\ChatClient\bin\Debug\ChatClient.exe.config
+D:\Projects\FirstChat\ChatClient\bin\Debug\ChatClient.exe
+D:\Projects\FirstChat\ChatClient\bin\Debug\ChatClient.pdb
+D:\Projects\FirstChat\ChatClient\obj\Debug\MainWindow.g.cs
+D:\Projects\FirstChat\ChatClient\obj\Debug\App.g.cs
+D:\Projects\FirstChat\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+D:\Projects\FirstChat\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+D:\Projects\FirstChat\ChatClient\obj\Debug\MainWindow.baml
+D:\Projects\FirstChat\ChatClient\obj\Debug\ChatClient.g.resources
+D:\Projects\FirstChat\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\Projects\FirstChat\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+D:\Projects\FirstChat\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\Projects\FirstChat\ChatClient\obj\Debug\ChatClient.exe
+D:\Projects\FirstChat\ChatClient\obj\Debug\ChatClient.pdb
+D:\Projects\FirstChat\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
