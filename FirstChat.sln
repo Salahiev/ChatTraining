@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstChat", "FirstChat\FirstChat.csproj", "{282D50E6-8C9B-4F28-A20E-B55C21CA7BD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatHost", "ChatHost\ChatHost.csproj", "{EE42E88C-B548-40B8-965B-B43F5722EBA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatClient", "ChatClient\ChatClient.csproj", "{BC1E327D-680C-4E7D-A9C9-3110FEFA8B97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{282D50E6-8C9B-4F28-A20E-B55C21CA7BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282D50E6-8C9B-4F28-A20E-B55C21CA7BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282D50E6-8C9B-4F28-A20E-B55C21CA7BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282D50E6-8C9B-4F28-A20E-B55C21CA7BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE42E88C-B548-40B8-965B-B43F5722EBA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE42E88C-B548-40B8-965B-B43F5722EBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE42E88C-B548-40B8-965B-B43F5722EBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE42E88C-B548-40B8-965B-B43F5722EBA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1E327D-680C-4E7D-A9C9-3110FEFA8B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1E327D-680C-4E7D-A9C9-3110FEFA8B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1E327D-680C-4E7D-A9C9-3110FEFA8B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1E327D-680C-4E7D-A9C9-3110FEFA8B97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6348383-FC1D-4296-B3AB-CC0809288FBA}
+	EndGlobalSection
+EndGlobal
