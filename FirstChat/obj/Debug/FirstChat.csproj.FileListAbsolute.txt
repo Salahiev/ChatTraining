@@ -1,0 +1,6 @@
+D:\Projects\FirstChat\FirstChat\bin\Debug\FirstChat.dll.config
+D:\Projects\FirstChat\FirstChat\bin\Debug\FirstChat.dll
+D:\Projects\FirstChat\FirstChat\bin\Debug\FirstChat.pdb
+D:\Projects\FirstChat\FirstChat\obj\Debug\FirstChat.csproj.CoreCompileInputs.cache
+D:\Projects\FirstChat\FirstChat\obj\Debug\FirstChat.dll
+D:\Projects\FirstChat\FirstChat\obj\Debug\FirstChat.pdb
