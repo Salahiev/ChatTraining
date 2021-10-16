@@ -1,0 +1,11 @@
+D:\Projects\FirstChat\ChatHost\bin\Debug\ChatHost.exe.config
+D:\Projects\FirstChat\ChatHost\bin\Debug\ChatHost.exe
+D:\Projects\FirstChat\ChatHost\bin\Debug\ChatHost.pdb
+D:\Projects\FirstChat\ChatHost\bin\Debug\FirstChat.dll
+D:\Projects\FirstChat\ChatHost\bin\Debug\FirstChat.pdb
+D:\Projects\FirstChat\ChatHost\bin\Debug\FirstChat.dll.config
+D:\Projects\FirstChat\ChatHost\obj\Debug\ChatHost.csproj.AssemblyReference.cache
+D:\Projects\FirstChat\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+D:\Projects\FirstChat\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+D:\Projects\FirstChat\ChatHost\obj\Debug\ChatHost.exe
+D:\Projects\FirstChat\ChatHost\obj\Debug\ChatHost.pdb
